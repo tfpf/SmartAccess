@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_details"
+            android:icon="@drawable/ic_menu_details"
+            android:title="User Information" />
+        <item
+            android:id="@+id/nav_money"
+            android:icon="@drawable/ic_menu_money"
+            android:title="Internet Banking" />
+        <item
+            android:id="@+id/nav_meds"
+            android:icon="@drawable/ic_menu_meds"
+            android:title="Buy Medicines" />
+        <item
+            android:id="@+id/nav_emer"
+            android:icon="@drawable/ic_menu_emer"
+            android:title="Emergency" />
+    </group>
+
+</menu>

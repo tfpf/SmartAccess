@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="10dp">
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:hint="receiver's Aadhar number"
+        android:id="@+id/rec_AC"
+        android:inputType="number"
+        android:layout_gravity="center_horizontal">
+    </EditText>
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/rec_amt"
+        android:hint="amount to be sent"
+        android:inputType="number"
+        android:layout_gravity="center_horizontal">
+    </EditText>
+
+</LinearLayout>

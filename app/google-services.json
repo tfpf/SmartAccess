@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "866083286732",
+    "firebase_url": "https://smartaccessdb.firebaseio.com",
+    "project_id": "smartaccessdb",
+    "storage_bucket": "smartaccessdb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:866083286732:android:d0cac45ad6299ebf",
+        "android_client_info": {
+          "package_name": "agctech.smartaccess23"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "866083286732-il6uq0qrk89tvlo83v1kggdv3e0c2cfl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "agctech.smartaccess23",
+            "certificate_hash": "93d45d43c1af92867618e6b0ac97aa7bb5bafc04"
+          }
+        },
+        {
+          "client_id": "866083286732-6jml7cnboh2hgcbrlhjun8qfcnes5ftq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApYRsxxwHLxPQmquA1lYJa3cBJXOfmdEw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "866083286732-6jml7cnboh2hgcbrlhjun8qfcnes5ftq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
